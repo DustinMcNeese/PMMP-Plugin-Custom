@@ -3,19 +3,21 @@ crafting dead plugin for pmmp
 just like the pc mod but a bit different.
 
 # To Do List 
- ·random loot spawns 
+ [] random loot spawns 
 
- ·random structures 
+ [] random structures 
 
- ·guns 
+ [] guns 
 
- ·custom zombies 
+ [] custom zombies 
 
- ·custom weapons 
+ [] custom weapons 
 
- ·custom armor 
+ [] custom armor 
 
- ·levels 
+ [] levels 
+
+ [] scoreboard
 
 # Creators/Helpers 
 DustinMcNeese aka outsidelawyer59 
