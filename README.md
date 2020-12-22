@@ -1,2 +1,1 @@
-# PMMP-Plugin-Custom
-Custom Plugin For PMMP
+# Zombie Apocalypse 
