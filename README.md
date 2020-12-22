@@ -4,13 +4,20 @@ just like the pc mod but a bit different.
 
 # To Do List 
  ·random loot spawns 
+
  ·random structures 
+
  ·guns 
+
  ·custom zombies 
+
  ·custom weapons 
+
  ·custom armor 
+
  ·levels 
 
 # Creators/Helpers 
 DustinMcNeese aka outsidelawyer59 
+
 PrimeMyth aka MythicPlayz3719
